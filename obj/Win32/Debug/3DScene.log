@@ -1,0 +1,81 @@
+﻿  main.cpp
+  ofApp.cpp
+  ofxAssimpAnimation.cpp
+  ofxAssimpMeshHelper.cpp
+  ofxAssimpModelLoader.cpp
+  ofxAssimpTexture.cpp
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+c:\dev\openframeworksapp\openframeworks\addons\ofxgui\src\ofxinputfield.cpp(276): warning C4018: '<': signed/unsigned mismatch
+  c:\dev\openframeworksapp\openframeworks\addons\ofxgui\src\ofxinputfield.cpp(265): note: while compiling class template member function 'void ofxInputField<float>::moveCursor(int)'
+  c:\dev\openframeworksapp\openframeworks\addons\ofxgui\src\ofxinputfield.cpp(368): note: see reference to function template instantiation 'void ofxInputField<float>::moveCursor(int)' being compiled
+  c:\dev\openframeworksapp\openframeworks\addons\ofxgui\src\ofxinputfield.cpp(805): note: see reference to class template instantiation 'ofxInputField<float>' being compiled
+  ofxSlider.cpp
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+  ofxThreadedImageLoader.cpp
+  ofxVectorGraphics.cpp
+  CreEPS.cpp
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(339): warning C4305: '=': truncation from 'double' to 'float'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(348): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(352): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(359): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(366): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(633): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(645): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(646): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(725): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(923): warning C4244: '=': conversion from 'const ns_creeps::CreEPS_INT' to 'float', possible loss of data
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(929): warning C4305: '*=': truncation from 'double' to 'float'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(937): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(994): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(1004): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(1009): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(1073): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(476): note: see declaration of 'ctime'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(1249): warning C4305: 'argument': truncation from 'double' to 'const ns_creeps::CreEPS_FLOAT'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(1238): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(2008): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1469): note: see declaration of 'vsprintf'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(2026): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1469): note: see declaration of 'vsprintf'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(2042): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1469): note: see declaration of 'vsprintf'
+c:\dev\openframeworksapp\openframeworks\addons\ofxvectorgraphics\libs\creeps.cpp(2059): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1469): note: see declaration of 'vsprintf'
+     Creating library bin\3DScene_debug.lib and object bin\3DScene_debug.exp
+  3DScene.vcxproj -> C:\Dev\openFrameworksApp\openFrameworks\apps\myApps\3DScene\bin\3DScene_debug.exe
+  
+  	                   2	C:\Dev\openFrameworksApp\openFrameworks\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Dev\openFrameworksApp\openFrameworks\apps\myApps\3DScene\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Dev\openFrameworksApp\openFrameworks\apps\myApps\3DScene\bin\assimp64.dll
+  	    New File  		 1266176	C:\Dev\openFrameworksApp\openFrameworks\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    New File  		 1312768	C:\Dev\openFrameworksApp\openFrameworks\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	C:\Dev\openFrameworksApp\openFrameworks\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Dev\openFrameworksApp\openFrameworks\apps\myApps\3DScene\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Dev\openFrameworksApp\openFrameworks\apps\myApps\3DScene\bin\assimp64.dll
+  	  *EXTRA File 		 1266176	C:\Dev\openFrameworksApp\openFrameworks\apps\myApps\3DScene\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Dev\openFrameworksApp\openFrameworks\apps\myApps\3DScene\bin\fmodexL.dll
+  	    New File  		 6018560	C:\Dev\openFrameworksApp\openFrameworks\libs\FreeImage\lib\vs\Win32\FreeImage.dll
