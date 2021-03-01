@@ -13,6 +13,16 @@ public:
 	void draw();
 
 	void keyPressed(int key);
+	void keyReleased(int key);
+	void mouseMoved(int x, int y);
+	void mouseDragged(int x, int y, int button);
+	void mousePressed(int x, int y, int button);
+	void mouseReleased(int x, int y, int button);
+	void mouseEntered(int x, int y);
+	void mouseExited(int x, int y);
+	void windowResized(int w, int h);
+	void dragEvent(ofDragInfo dragInfo);
+	void receiveMessage(ofMessage msg);
 	
 	ofxAssimpModelLoader model;  // permits loading to memory and processing 3D models in a convenient and unified format. In our case OBJ models.
 
